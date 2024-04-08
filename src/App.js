@@ -1,25 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import * as React from "react";
+import Features from './Features'
+import Footer from './Footer'
+import Brands from './Brands';
+import Veryfi from './Veryfi';
 
-function App() {
+function VeryfiHereThenBuy() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Veryfi/>
+    <Brands/>
+    <Features/>
+    <Footer/>
+    </>
   );
 }
 
-export default App;
+export default VeryfiHereThenBuy;
