@@ -1,0 +1,1199 @@
+[
+  {
+    "Product Name": "Apple iPhone 11",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 43900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 43900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 43900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 43900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 11 (128GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 48900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 48900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 48900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 48900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 11 Pro Max",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 109900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 109900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 109900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 109900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 48999,
+        "flipkart": 44999,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 48999,
+        "flipkart": 44999,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 44999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 42999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12 (128GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 50999,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 50999,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 50999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 50999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12 (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 54899,
+        "flipkart": 63999,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 54899,
+        "flipkart": 63999,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 63999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 54899,
+        "flipkart": 63999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12 Mini",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 59900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 59900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 59900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 59900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12 Mini (128GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 64900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 64900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12 Pro",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 109900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 109900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 109900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12 Pro (256GB)",
+    "Prices": [
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 119900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 12 Pro Max",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 119900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 119900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 119900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 119900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 13",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 51499,
+        "flipkart": 52999,
+        "croma": 52990
+      },
+      {
+        "Month": "February",
+        "amazon": 51499,
+        "flipkart": 52999,
+        "croma": 51790
+      },
+      {
+        "Month": "March",
+        "amazon": 51499,
+        "flipkart": 52999,
+        "croma": 52090
+      },
+      {
+        "Month": "April",
+        "amazon": 51499,
+        "flipkart": 52999,
+        "croma": 52990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 13 (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 62999,
+        "flipkart": 62999,
+        "croma": 62990
+      },
+      {
+        "Month": "February",
+        "amazon": 62999,
+        "flipkart": 0,
+        "croma": 62990
+      },
+      {
+        "Month": "March",
+        "amazon": 62999,
+        "flipkart": 62999,
+        "croma": 62990
+      },
+      {
+        "Month": "April",
+        "amazon": 60999,
+        "flipkart": 0,
+        "croma": 62490
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 13 (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 82999,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 69999,
+        "flipkart": 82999,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 82999,
+        "flipkart": 82999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 82999,
+        "flipkart": 82999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 13 Pro (1TB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 169900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 169900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 13 Pro Max (1TB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 179900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 179900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 179900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 179900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 13 Pro Max (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 159900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 159900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 14",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 56999,
+        "croma": 62990
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 56999,
+        "croma": 54994
+      },
+      {
+        "Month": "March",
+        "amazon": 61999,
+        "flipkart": 57999,
+        "croma": 61990
+      },
+      {
+        "Month": "April",
+        "amazon": 61999,
+        "flipkart": 58999,
+        "croma": 61990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 14 (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 71999,
+        "flipkart": 66999,
+        "croma": 72990
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 66999,
+        "croma": 72990
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 68999,
+        "croma": 71990
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 68999,
+        "croma": 71990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 14 (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 90990,
+        "flipkart": 87999,
+        "croma": 74990
+      },
+      {
+        "Month": "February",
+        "amazon": 92999,
+        "flipkart": 86999,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 90990,
+        "flipkart": 87999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 90990,
+        "flipkart": 88999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 14 Plus",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 71999,
+        "flipkart": 65999,
+        "croma": 71490
+      },
+      {
+        "Month": "February",
+        "amazon": 71999,
+        "flipkart": 66999,
+        "croma": 70994
+      },
+      {
+        "Month": "March",
+        "amazon": 71999,
+        "flipkart": 65999,
+        "croma": 71090
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 66999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 14 Plus (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 81999,
+        "flipkart": 0,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 81999,
+        "flipkart": 0,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 81999,
+        "flipkart": 75999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 14 Plus (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 99990,
+        "flipkart": 0,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 99990,
+        "flipkart": 0,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 99990,
+        "flipkart": 95999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 99990,
+        "flipkart": 96999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 14 Pro Max (1TB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 177999,
+        "flipkart": 0,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 177999,
+        "flipkart": 0,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 65999,
+        "croma": 71490
+      },
+      {
+        "Month": "February",
+        "amazon": 71490,
+        "flipkart": 70999,
+        "croma": 71490
+      },
+      {
+        "Month": "March",
+        "amazon": 71490,
+        "flipkart": 66999,
+        "croma": 71290
+      },
+      {
+        "Month": "April",
+        "amazon": 71490,
+        "flipkart": 72999,
+        "croma": 72690
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 80990,
+        "flipkart": 75999,
+        "croma": 80990
+      },
+      {
+        "Month": "February",
+        "amazon": 80990,
+        "flipkart": 81999,
+        "croma": 80990
+      },
+      {
+        "Month": "March",
+        "amazon": 80990,
+        "flipkart": 82999,
+        "croma": 81490
+      },
+      {
+        "Month": "April",
+        "amazon": 83999,
+        "flipkart": 82999,
+        "croma": 81990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 102999,
+        "flipkart": 95999,
+        "croma": 99990
+      },
+      {
+        "Month": "February",
+        "amazon": 99990,
+        "flipkart": 101999,
+        "croma": 99990
+      },
+      {
+        "Month": "March",
+        "amazon": 99990,
+        "flipkart": 102999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 102999,
+        "flipkart": 0,
+        "croma": 100490
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Plus",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 82999,
+        "croma": 80990
+      },
+      {
+        "Month": "February",
+        "amazon": 80990,
+        "flipkart": 82999,
+        "croma": 80990
+      },
+      {
+        "Month": "March",
+        "amazon": 80990,
+        "flipkart": 77499,
+        "croma": 80990
+      },
+      {
+        "Month": "April",
+        "amazon": 80990,
+        "flipkart": 82999,
+        "croma": 80990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Plus (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 94900,
+        "flipkart": 92999,
+        "croma": 90990
+      },
+      {
+        "Month": "February",
+        "amazon": 94900,
+        "flipkart": 92999,
+        "croma": 90990
+      },
+      {
+        "Month": "March",
+        "amazon": 94900,
+        "flipkart": 92999,
+        "croma": 92990
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 92999,
+        "croma": 92990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Plus (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 119900,
+        "flipkart": 112999,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 117900,
+        "flipkart": 112999,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 112999,
+        "flipkart": 112999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 112999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Pro",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 127990,
+        "flipkart": 127990,
+        "croma": 130990
+      },
+      {
+        "Month": "February",
+        "amazon": 127990,
+        "flipkart": 127990,
+        "croma": 130990
+      },
+      {
+        "Month": "March",
+        "amazon": 127990,
+        "flipkart": 127990,
+        "croma": 127990
+      },
+      {
+        "Month": "April",
+        "amazon": 127990,
+        "flipkart": 127990,
+        "croma": 127990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Pro (1TB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 177990,
+        "croma": 180990
+      },
+      {
+        "Month": "February",
+        "amazon": 156695,
+        "flipkart": 177990,
+        "croma": 180990
+      },
+      {
+        "Month": "March",
+        "amazon": 156695,
+        "flipkart": 177990,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 156695,
+        "flipkart": 0,
+        "croma": 180990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Pro (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 137990,
+        "flipkart": 137990,
+        "croma": 140990
+      },
+      {
+        "Month": "February",
+        "amazon": 137990,
+        "flipkart": 137990,
+        "croma": 140990
+      },
+      {
+        "Month": "March",
+        "amazon": 137990,
+        "flipkart": 137990,
+        "croma": 137990
+      },
+      {
+        "Month": "April",
+        "amazon": 137990,
+        "flipkart": 137990,
+        "croma": 137990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Pro (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 158990,
+        "croma": 161990
+      },
+      {
+        "Month": "February",
+        "amazon": 158990,
+        "flipkart": 158990,
+        "croma": 161990
+      },
+      {
+        "Month": "March",
+        "amazon": 158990,
+        "flipkart": 158990,
+        "croma": 158990
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 158990,
+        "croma": 158990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Pro Max",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 148900,
+        "flipkart": 148900,
+        "croma": 151990
+      },
+      {
+        "Month": "February",
+        "amazon": 148900,
+        "flipkart": 148900,
+        "croma": 151990
+      },
+      {
+        "Month": "March",
+        "amazon": 148900,
+        "flipkart": 148900,
+        "croma": 149990
+      },
+      {
+        "Month": "April",
+        "amazon": 148900,
+        "flipkart": 148900,
+        "croma": 149990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Pro Max (1TB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 15 Pro Max (512GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 166990
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 166990
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 168990
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 168990
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 6 Plus (64GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 48999,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 48999,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 48999,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 48999,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 6s (32GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 29990,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 29990,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 29990,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 29990,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 8 (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 77000,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 77000,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 77000,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 77000,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 8 Plus",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 49900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 49900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 49900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 49900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone 8 Plus (256GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 84900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 84900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 84900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 84900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone SE 3 2022",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 43900
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 30730
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 30730
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 0,
+        "croma": 30730
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone SE 3 2022 (128GB)",
+    "Prices": [
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 54900,
+        "croma": 0
+      }
+    ]
+  },
+  {
+    "Product Name": "Apple iPhone XR",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 0,
+        "flipkart": 47900,
+        "croma": 0
+      },
+      {
+        "Month": "February",
+        "amazon": 0,
+        "flipkart": 47900,
+        "croma": 0
+      },
+      {
+        "Month": "March",
+        "amazon": 0,
+        "flipkart": 47900,
+        "croma": 0
+      },
+      {
+        "Month": "April",
+        "amazon": 0,
+        "flipkart": 47900,
+        "croma": 0
+      }
+    ]
+  }
+]

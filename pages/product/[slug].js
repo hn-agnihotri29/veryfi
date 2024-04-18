@@ -3,7 +3,8 @@ import { client } from '@/lib/client.mjs';
 import {AiOutlineMinus, AiOutlinePlus, AiOutlineStar, AiFillStar} from 'react-icons/ai';
 import { Product } from '@/components';
 import Review from '@/components/Review';
-import Star from '@/components/star';
+import Star from '@/components/Star';
+import Graph from '@/components/Graph';
 
 const ProductDetails = ({product, products}) => {
 
@@ -70,6 +71,8 @@ const ProductDetails = ({product, products}) => {
                 </div>
 
             </div>
+            <Graph productName={productName}/>
+            
 
 
 
