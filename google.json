@@ -1,0 +1,263 @@
+[
+  {
+    "Product Name": "Google Pixel 3a",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 13999,
+        "flipkart": 14998,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 14744,
+        "flipkart": 14500,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 13999,
+        "flipkart": 13999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 14500,
+        "flipkart": 14744,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 6A",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 30990,
+        "flipkart": 26999,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 43999,
+        "flipkart": 43999,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 43999,
+        "flipkart": 43999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 37115,
+        "flipkart": 30990,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 7 5G",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 49999,
+        "flipkart": 48699,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 46999,
+        "flipkart": 43499,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 43999,
+        "flipkart": 46999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 46999,
+        "flipkart": 49999,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 7 Pro 5G",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 66999,
+        "flipkart": 84999,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 59999,
+        "flipkart": 59999,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 62999,
+        "flipkart": 65999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 67999,
+        "flipkart": 68999,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 7A",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 35999,
+        "flipkart": 38999,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 40990,
+        "flipkart": 40990,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 38999,
+        "flipkart": 37999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 37999,
+        "flipkart": 39999,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 8 (8GB RAM + 256 GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 82999,
+        "flipkart": 82999,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 82999,
+        "flipkart": 82999,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 82999,
+        "flipkart": 82999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 76999,
+        "flipkart": 76999,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 8 5G",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 75999,
+        "flipkart": 75999,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 75999,
+        "flipkart": 75999,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 75999,
+        "flipkart": 75999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 69999,
+        "flipkart": 69999,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 8 Pro",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 92990,
+        "flipkart": 106999,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 87490,
+        "flipkart": 89990,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 89990,
+        "flipkart": 87490,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 103999,
+        "flipkart": 106999,
+        "croma": null
+      }
+    ]
+  },
+  {
+    "Product Name": "Google Pixel 8 Pro (12GB RAM + 256 GB)",
+    "Prices": [
+      {
+        "Month": "January",
+        "amazon": 113999,
+        "flipkart": 113999,
+        "croma": null
+      },
+      {
+        "Month": "February",
+        "amazon": 102990,
+        "flipkart": 113999,
+        "croma": null
+      },
+      {
+        "Month": "March",
+        "amazon": 97999,
+        "flipkart": 113999,
+        "croma": null
+      },
+      {
+        "Month": "April",
+        "amazon": 110999,
+        "flipkart": 113999,
+        "croma": null
+      }
+    ]
+  }
+]

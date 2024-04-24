@@ -1,0 +1,1052 @@
+[
+  {
+    "Product Name": "Samsung Galaxy A04",
+    "Prices": [
+      {
+        "amazon": 11999,
+        "flipkart": 11999,
+        "croma": 10980
+      },
+      {
+        "amazon": 10999,
+        "flipkart": 11999,
+        "croma": 10490
+      },
+      {
+        "amazon": 10999,
+        "flipkart": 11999,
+        "croma": 11999
+      },
+      {
+        "amazon": 9999,
+        "flipkart": 11000,
+        "croma": 9799
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A05",
+    "Prices": [
+      {
+        "amazon": 9928,
+        "flipkart": 9999,
+        "croma": 9999
+      },
+      {
+        "amazon": 9869,
+        "flipkart": 9899,
+        "croma": 9999
+      },
+      {
+        "amazon": 7999,
+        "flipkart": 8979,
+        "croma": 8699
+      },
+      {
+        "amazon": 8699,
+        "flipkart": 8990,
+        "croma": 8699
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A05 (6GB RAM + 128GB)",
+    "Prices": [
+      {
+        "amazon": 12299,
+        "flipkart": 12499,
+        "croma": 12499
+      },
+      {
+        "amazon": 12390,
+        "flipkart": 11990,
+        "croma": 12499
+      },
+      {
+        "amazon": 10299,
+        "flipkart": 10999,
+        "croma": 10450
+      },
+      {
+        "amazon": 10999,
+        "flipkart": 11149,
+        "croma": 10999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A05s",
+    "Prices": [
+      {
+        "amazon": 12254,
+        "flipkart": 14480,
+        "croma": 12999
+      },
+      {
+        "amazon": 14800,
+        "flipkart": 12790,
+        "croma": 11632
+      },
+      {
+        "amazon": 11632,
+        "flipkart": 12870,
+        "croma": 12999
+      },
+      {
+        "amazon": 12499,
+        "flipkart": 12999,
+        "croma": 12790
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A05s (4GB RAM + 128GB)",
+    "Prices": [
+      {
+        "amazon": 11390,
+        "flipkart": 11499,
+        "croma": 11499
+      },
+      {
+        "amazon": 12400,
+        "flipkart": 10590,
+        "croma": 11499
+      },
+      {
+        "amazon": 10590,
+        "flipkart": 11499,
+        "croma": 11499
+      },
+      {
+        "amazon": 10990,
+        "flipkart": 11449,
+        "croma": 11499
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A14 4G",
+    "Prices": [
+      {
+        "amazon": 12490,
+        "flipkart": 12999,
+        "croma": 12999
+      },
+      {
+        "amazon": 11000,
+        "flipkart": 11999,
+        "croma": 9099
+      },
+      {
+        "amazon": 9099,
+        "flipkart": 10999,
+        "croma": 9099
+      },
+      {
+        "amazon": 10999,
+        "flipkart": 10399,
+        "croma": 9099
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A14 4G (4GB RAM + 128 GB)",
+    "Prices": [
+      {
+        "amazon": 12919,
+        "flipkart": 13999,
+        "croma": 16999
+      },
+      {
+        "amazon": 9799,
+        "flipkart": 14999,
+        "croma": 12919
+      },
+      {
+        "amazon": 12900,
+        "flipkart": 14999,
+        "croma": 10999
+      },
+      {
+        "amazon": 9799,
+        "flipkart": 14500,
+        "croma": 9799
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A14 5G",
+    "Prices": [
+      {
+        "amazon": 14498,
+        "flipkart": 14499,
+        "croma": 14499
+      },
+      {
+        "amazon": 13499,
+        "flipkart": 12373,
+        "croma": 11599
+      },
+      {
+        "amazon": 12370,
+        "flipkart": 11599,
+        "croma": 13499
+      },
+      {
+        "amazon": 12499,
+        "flipkart": 13499,
+        "croma": 12357
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A14 5G (4GB RAM + 128GB)",
+    "Prices": [
+      {
+        "amazon": 15499,
+        "flipkart": 15499,
+        "croma": 15499
+      },
+      {
+        "amazon": 15344,
+        "flipkart": 14499,
+        "croma": 14499
+      },
+      {
+        "amazon": 14449,
+        "flipkart": 13490,
+        "croma": 14499
+      },
+      {
+        "amazon": 13990,
+        "flipkart": 14480,
+        "croma": 14499
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A14 5G (6GB RAM + 128GB)",
+    "Prices": [
+      {
+        "amazon": 16989,
+        "flipkart": 16999,
+        "croma": 16999
+      },
+      {
+        "amazon": 15999,
+        "flipkart": 16999,
+        "croma": 15999
+      },
+      {
+        "amazon": 14990,
+        "flipkart": 15999,
+        "croma": 14990
+      },
+      {
+        "amazon": 14886,
+        "flipkart": 15999,
+        "croma": 15999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A14 5G (8GB RAM + 128GB)",
+    "Prices": [
+      {
+        "amazon": 18499,
+        "flipkart": 18999,
+        "croma": 16999
+      },
+      {
+        "amazon": 17999,
+        "flipkart": 18899,
+        "croma": 13599
+      },
+      {
+        "amazon": 17999,
+        "flipkart": 17999,
+        "croma": 13599
+      },
+      {
+        "amazon": 17999,
+        "flipkart": 17999,
+        "croma": 13599
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A15 5G",
+    "Prices": [
+      {
+        "amazon": 19390,
+        "flipkart": 19499,
+        "croma": 19499
+      },
+      {
+        "amazon": 19100,
+        "flipkart": 19499,
+        "croma": 19499
+      },
+      {
+        "amazon": 19499,
+        "flipkart": 19499,
+        "croma": 19499
+      },
+      {
+        "amazon": 19499,
+        "flipkart": 19499,
+        "croma": 19499
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A15 5G (8GB RAM + 256GB)",
+    "Prices": [
+      {
+        "amazon": 22390,
+        "flipkart": 22499,
+        "croma": 22499
+      },
+      {
+        "amazon": 22280,
+        "flipkart": 22499,
+        "croma": 22499
+      },
+      {
+        "amazon": 22499,
+        "flipkart": 22499,
+        "croma": 22499
+      },
+      {
+        "amazon": 21000,
+        "flipkart": 20000,
+        "croma": 22999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A25 5G",
+    "Prices": [
+      {
+        "amazon": 26890,
+        "flipkart": 26999,
+        "croma": 26999
+      },
+      {
+        "amazon": 26729,
+        "flipkart": 26999,
+        "croma": 26999
+      },
+      {
+        "amazon": 26999,
+        "flipkart": 26999,
+        "croma": 26999
+      },
+      {
+        "amazon": 26999,
+        "flipkart": 26999,
+        "croma": 26999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A25 5G (8GB RAM + 256GB)",
+    "Prices": [
+      {
+        "amazon": 29890,
+        "flipkart": 29999,
+        "croma": 29999
+      },
+      {
+        "amazon": 29890,
+        "flipkart": 29900,
+        "croma": 29999
+      },
+      {
+        "amazon": 25000,
+        "flipkart": 30900,
+        "croma": 29999
+      },
+      {
+        "amazon": 29999,
+        "flipkart": 29999,
+        "croma": 29999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A34 5G (8GB RAM + 128GB)",
+    "Prices": [
+      {
+        "amazon": 24990,
+        "flipkart": 27499,
+        "croma": 27499
+      },
+      {
+        "amazon": 26990,
+        "flipkart": 24499,
+        "croma": 24499
+      },
+      {
+        "amazon": 24499,
+        "flipkart": 24499,
+        "croma": 23995
+      },
+      {
+        "amazon": 24499,
+        "flipkart": 24499,
+        "croma": 24499
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A34 5G (8GB RAM + 256GB)",
+    "Prices": [
+      {
+        "amazon": 29499,
+        "flipkart": 29499,
+        "croma": 29499
+      },
+      {
+        "amazon": 26499,
+        "flipkart": 26499,
+        "croma": 26499
+      },
+      {
+        "amazon": 26499,
+        "flipkart": 26499,
+        "croma": 26499
+      },
+      {
+        "amazon": 26499,
+        "flipkart": 26499,
+        "croma": 26499
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A54 5G",
+    "Prices": [
+      {
+        "amazon": 35390,
+        "flipkart": 35499,
+        "croma": 35499
+      },
+      {
+        "amazon": 35499,
+        "flipkart": 35499,
+        "croma": 35499
+      },
+      {
+        "amazon": 33499,
+        "flipkart": 33499,
+        "croma": 33499
+      },
+      {
+        "amazon": 33499,
+        "flipkart": 33499,
+        "croma": 31499
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy A54 5G (8GB RAM + 256GB)",
+    "Prices": [
+      {
+        "amazon": 37499,
+        "flipkart": 37499,
+        "croma": 37499
+      },
+      {
+        "amazon": 37490,
+        "flipkart": 37499,
+        "croma": 37499
+      },
+      {
+        "amazon": 35499,
+        "flipkart": 35499,
+        "croma": 35499
+      },
+      {
+        "amazon": 35499,
+        "flipkart": 35499,
+        "croma": 33499
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S20 FE 5G",
+    "Prices": [
+      {
+        "amazon": 28990,
+        "flipkart": 47999,
+        "croma": 27880
+      },
+      {
+        "amazon": 27500,
+        "flipkart": 27290,
+        "croma": 47999
+      },
+      {
+        "amazon": 26999,
+        "flipkart": 26674,
+        "croma": 25450
+      },
+      {
+        "amazon": 26499,
+        "flipkart": 27490,
+        "croma": 30998
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S21 FE (Snapdragon)",
+    "Prices": [
+      {
+        "amazon": 33505,
+        "flipkart": 33999,
+        "croma": 41999
+      },
+      {
+        "amazon": 32650,
+        "flipkart": 33999,
+        "croma": 33644
+      },
+      {
+        "amazon": 36899,
+        "flipkart": 31999,
+        "croma": 32990
+      },
+      {
+        "amazon": 33999,
+        "flipkart": 33999,
+        "croma": 32100
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S21 FE 5G",
+    "Prices": [
+      {
+        "amazon": 31837,
+        "flipkart": 33989,
+        "croma": 33990
+      },
+      {
+        "amazon": 31489,
+        "flipkart": 32999,
+        "croma": 34990
+      },
+      {
+        "amazon": 31999,
+        "flipkart": 32999,
+        "croma": 30673
+      },
+      {
+        "amazon": 32990,
+        "flipkart": 39999,
+        "croma": 32998
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S21 Plus",
+    "Prices": [
+      {
+        "amazon": 48980,
+        "flipkart": 44999,
+        "croma": 45999
+      },
+      {
+        "amazon": 44999,
+        "flipkart": 48980,
+        "croma": 49000
+      },
+      {
+        "amazon": 49000,
+        "flipkart": 42999,
+        "croma": 45280
+      },
+      {
+        "amazon": 44999,
+        "flipkart": 49000,
+        "croma": 49000
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S22 5G",
+    "Prices": [
+      {
+        "amazon": 39900,
+        "flipkart": 62999,
+        "croma": 72999
+      },
+      {
+        "amazon": 39300,
+        "flipkart": 39999,
+        "croma": 54999
+      },
+      {
+        "amazon": 37900,
+        "flipkart": 39999,
+        "croma": 39050
+      },
+      {
+        "amazon": 36550,
+        "flipkart": 39999,
+        "croma": 32725
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S23 (8GB RAM + 256GB)",
+    "Prices": [
+      {
+        "amazon": 58750,
+        "flipkart": 69999,
+        "croma": 69999
+      },
+      {
+        "amazon": 59999,
+        "flipkart": 62399,
+        "croma": 64999
+      },
+      {
+        "amazon": 58720,
+        "flipkart": 59430,
+        "croma": 68899
+      },
+      {
+        "amazon": 58120,
+        "flipkart": 69999,
+        "croma": 69999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S23 5G",
+    "Prices": [
+      {
+        "amazon": 54999,
+        "flipkart": 64999,
+        "croma": 64999
+      },
+      {
+        "amazon": 64999,
+        "flipkart": 64999,
+        "croma": 64999
+      },
+      {
+        "amazon": 57900,
+        "flipkart": 69990,
+        "croma": 64999
+      },
+      {
+        "amazon": 64999,
+        "flipkart": 64999,
+        "croma": 53999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S23 FE 5G",
+    "Prices": [
+      {
+        "amazon": 47266,
+        "flipkart": 54999,
+        "croma": 54999
+      },
+      {
+        "amazon": 46450,
+        "flipkart": 54999,
+        "croma": 54999
+      },
+      {
+        "amazon": 41530,
+        "flipkart": 41999,
+        "croma": 49999
+      },
+      {
+        "amazon": 42500,
+        "flipkart": 54999,
+        "croma": 54999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S23 FE 5G (8GB RAM + 256GB)",
+    "Prices": [
+      {
+        "amazon": 51999,
+        "flipkart": 59999,
+        "croma": 59999
+      },
+      {
+        "amazon": 51999,
+        "flipkart": 59999,
+        "croma": 59999
+      },
+      {
+        "amazon": 45700,
+        "flipkart": 46999,
+        "croma": 54999
+      },
+      {
+        "amazon": 58999,
+        "flipkart": 59999,
+        "croma": 59999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S23 Ultra (12GB RAM + 512GB)",
+    "Prices": [
+      {
+        "amazon": 116999,
+        "flipkart": 134999,
+        "croma": 134999
+      },
+      {
+        "amazon": 104999,
+        "flipkart": 119999,
+        "croma": 119999
+      },
+      {
+        "amazon": 103989,
+        "flipkart": 119999,
+        "croma": 119999
+      },
+      {
+        "amazon": 102899,
+        "flipkart": 99999,
+        "croma": 102899
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S23 Ultra 5G",
+    "Prices": [
+      {
+        "amazon": 115999,
+        "flipkart": 124999,
+        "croma": 124999
+      },
+      {
+        "amazon": 97999,
+        "flipkart": 99999,
+        "croma": 109999
+      },
+      {
+        "amazon": 96999,
+        "flipkart": 99999,
+        "croma": 109990
+      },
+      {
+        "amazon": 93500,
+        "flipkart": 109999,
+        "croma": 115999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S24 (8GB RAM + 512GB)",
+    "Prices": [
+      {
+        "amazon": 81990,
+        "flipkart": 89999,
+        "croma": 89999
+      },
+      {
+        "amazon": 79479,
+        "flipkart": 83000,
+        "croma": 82000
+      },
+      {
+        "amazon": 74990,
+        "flipkart": 89999,
+        "croma": 89999
+      },
+      {
+        "amazon": 89999,
+        "flipkart": 87999,
+        "croma": 87999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S24 5G",
+    "Prices": [
+      {
+        "amazon": 75799,
+        "flipkart": 79999,
+        "croma": 79999
+      },
+      {
+        "amazon": 72200,
+        "flipkart": 75999,
+        "croma": 79999
+      },
+      {
+        "amazon": 79999,
+        "flipkart": 79999,
+        "croma": 66045
+      },
+      {
+        "amazon": 73999,
+        "flipkart": 74999,
+        "croma": 79999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S24 Plus",
+    "Prices": [
+      {
+        "amazon": 99999,
+        "flipkart": 99999,
+        "croma": 99999
+      },
+      {
+        "amazon": 89999,
+        "flipkart": 99999,
+        "croma": 99999
+      },
+      {
+        "amazon": 99999,
+        "flipkart": 89999,
+        "croma": 99999
+      },
+      {
+        "amazon": 99999,
+        "flipkart": 99999,
+        "croma": 99999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S24 Plus (12GB RAM + 512GB)",
+    "Prices": [
+      {
+        "amazon": 100900,
+        "flipkart": 109999,
+        "croma": 109999
+      },
+      {
+        "amazon": 107900,
+        "flipkart": 109999,
+        "croma": 109999
+      },
+      {
+        "amazon": 105000,
+        "flipkart": 109999,
+        "croma": 109999
+      },
+      {
+        "amazon": 109999,
+        "flipkart": 109999,
+        "croma": 109999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S24 Ultra",
+    "Prices": [
+      {
+        "amazon": 119899,
+        "flipkart": 129999,
+        "croma": 125999
+      },
+      {
+        "amazon": 117499,
+        "flipkart": 129999,
+        "croma": 129999
+      },
+      {
+        "amazon": 129999,
+        "flipkart": 129999,
+        "croma": 118679
+      },
+      {
+        "amazon": 119500,
+        "flipkart": 111900,
+        "croma": 129999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy S24 Ultra (12GB RAM + 512GB)",
+    "Prices": [
+      {
+        "amazon": 129999,
+        "flipkart": 139999,
+        "croma": 139999
+      },
+      {
+        "amazon": 128832,
+        "flipkart": 139999,
+        "croma": 139999
+      },
+      {
+        "amazon": 139999,
+        "flipkart": 139999,
+        "croma": 139999
+      },
+      {
+        "amazon": 139999,
+        "flipkart": 139999,
+        "croma": 139999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy Z Flip 4 5G",
+    "Prices": [
+      {
+        "amazon": 54950,
+        "flipkart": 89999,
+        "croma": 58499
+      },
+      {
+        "amazon": 59999,
+        "flipkart": 64899,
+        "croma": 52990
+      },
+      {
+        "amazon": 78999,
+        "flipkart": 101999,
+        "croma": 55999
+      },
+      {
+        "amazon": 63990,
+        "flipkart": 89999,
+        "croma": 64999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy Z Flip 5",
+    "Prices": [
+      {
+        "amazon": 99999,
+        "flipkart": 99999,
+        "croma": 99999
+      },
+      {
+        "amazon": 99999,
+        "flipkart": 99899,
+        "croma": 99999
+      },
+      {
+        "amazon": 92000,
+        "flipkart": 94900,
+        "croma": 99999
+      },
+      {
+        "amazon": 94999,
+        "flipkart": 91899,
+        "croma": 91899
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy Z Flip 5 (8GB RAM + 512GB)",
+    "Prices": [
+      {
+        "amazon": 109999,
+        "flipkart": 109999,
+        "croma": 109999
+      },
+      {
+        "amazon": 109999,
+        "flipkart": 109999,
+        "croma": 109999
+      },
+      {
+        "amazon": 97999,
+        "flipkart": 109999,
+        "croma": 101499
+      },
+      {
+        "amazon": 109999,
+        "flipkart": 97999,
+        "croma": 109999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy Z Fold 4",
+    "Prices": [
+      {
+        "amazon": 114990,
+        "flipkart": 154999,
+        "croma": 139999
+      },
+      {
+        "amazon": 109990,
+        "flipkart": 123000,
+        "croma": 124999
+      },
+      {
+        "amazon": 114999,
+        "flipkart": 134999,
+        "croma": 128249
+      },
+      {
+        "amazon": 99999,
+        "flipkart": 128249,
+        "croma": 106999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy Z Fold 5",
+    "Prices": [
+      {
+        "amazon": 154000,
+        "flipkart": 154999,
+        "croma": 154999
+      },
+      {
+        "amazon": 154999,
+        "flipkart": 154999,
+        "croma": 154000
+      },
+      {
+        "amazon": 144999,
+        "flipkart": 154999,
+        "croma": 154999
+      },
+      {
+        "amazon": 154999,
+        "flipkart": 129999,
+        "croma": 154999
+      }
+    ]
+  },
+  {
+    "Product Name": "Samsung Galaxy Z Fold 5 (12GB RAM + 512GB)",
+    "Prices": [
+      {
+        "amazon": 164999,
+        "flipkart": 164999,
+        "croma": 164999
+      },
+      {
+        "amazon": 164999,
+        "flipkart": 164999,
+        "croma": 164999
+      },
+      {
+        "amazon": 149999,
+        "flipkart": 164999,
+        "croma": 164999
+      },
+      {
+        "amazon": 154999,
+        "flipkart": 164999,
+        "croma": 164999
+      }
+    ]
+  }
+]

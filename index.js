@@ -3,9 +3,9 @@ const csv = require('csv-parser');
 
 // Initialize an empty array to store JSON objects
 const json_data = [];
-const filename = 'apple'
+const filename = 'samsung'
 // Read the CSV file
-fs.createReadStream(__dirname+'/apple.csv')
+fs.createReadStream(__dirname+`/${filename}.csv`)
   .pipe(csv())
   .on('data', (row) => {
     // Process each row
